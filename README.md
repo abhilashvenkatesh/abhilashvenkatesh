@@ -19,12 +19,6 @@ Distributed systems design · Event-driven architecture · TDD · Agile/XP
 
 ---
 
-### Outside work
-
-Building [melbourne-cartogram](https://github.com/abhilashvenkatesh/melbourne-cartogram) — a transit time cartogram of Melbourne that visualises the city by how long it actually takes to get places by public transport. Curious about how cities work and how data can make that legible.
-
----
-
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/abhilash93) · Melbourne, VIC, Australia
